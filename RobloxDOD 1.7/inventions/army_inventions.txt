@@ -1968,7 +1968,7 @@ combat_loss_evaluation_schemata = {
 pre_planned_depot_systems = {
 	limit = { military_logistics = 1 }
 	chance = {
-		base = 2
+		base = 5
 		modifier = {
 			factor = 2
 			invention = sequence_planning
@@ -1981,7 +1981,7 @@ pre_planned_depot_systems = {
 	effect = {
 		army_base = {
 			default_organisation = 2.5
-			supply_consumption = -0.15
+			supply_consumption = -0.05
 		} 
 	}
 }
@@ -1989,7 +1989,7 @@ pre_planned_depot_systems = {
 logistical_calculations = {
 	limit = { military_logistics = 1 }
 	chance = {
-		base = 2
+		base = 5
 		modifier = {
 			factor = 3
 			invention = distribution_channels
@@ -2002,7 +2002,7 @@ logistical_calculations = {
 	effect = {
 		army_base = {
 			default_organisation = 2.5
-			supply_consumption = -0.15
+			supply_consumption = -0.05
 		} 
 	}
 }
@@ -2010,7 +2010,7 @@ logistical_calculations = {
 replenishment_transport_organisation = {
 	limit = { military_logistics = 1 }
 	chance = {
-		base = 3
+		base = 5
 		modifier = {
 			factor = 2
 			invention = logistical_calculations

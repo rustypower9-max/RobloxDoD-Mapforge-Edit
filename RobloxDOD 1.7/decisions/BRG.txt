@@ -5,8 +5,9 @@ political_decisions = {
 			NOT = {has_country_flag = integrate_rheinish_brg}
 		}
 		allow = {
+			year = 1855
+			war = no
 			nationalism_n_imperialism = 1
-			experimental_psychology = 1 
 			owns = 575
 		}
 		effect = {

@@ -325,6 +325,7 @@ political_decisions = {
 			NOT = {has_country_flag = claim_prussia}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 			CAE = {all_core = {owned_by = THIS}}
 		}
@@ -339,6 +340,7 @@ political_decisions = {
 			NOT = {has_country_flag = integrate_rheinish_boh}
 		}
 		allow = {
+			war = no
 			empiricism = 1
 		}
 		effect = {

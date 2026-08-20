@@ -12,7 +12,7 @@ state_building = {
 }
 state_building = {
 	level = 1
-	building = regular_clothes_factory
+	building = explosives_factory
 	upgrade = yes
 }
 naval_base = 2

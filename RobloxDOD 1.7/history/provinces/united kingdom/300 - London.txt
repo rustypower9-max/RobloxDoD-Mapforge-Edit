@@ -11,7 +11,7 @@ fort = 1
 #}
 state_building = {
 	level = 1
-	building = furniture_factory
+	building = explosives_factory
 	upgrade = yes
 }
 state_building = {

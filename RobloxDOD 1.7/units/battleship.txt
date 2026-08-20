@@ -40,11 +40,11 @@ battleship = {
 		coal = 0.4
 		#steel = 5             #23.5
 		#coal = 3.3            #7.59 total 149.4
-		fuel = 1.05
+		fuel = 2.05
 	}
 	
 	#Naval Abilties
 	hull = 60
 	gun_power = 40
-	fire_range = 1.0
+	fire_range = 0.80
 }

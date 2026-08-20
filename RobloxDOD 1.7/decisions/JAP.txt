@@ -5,6 +5,7 @@ political_decisions = {
 			NOT = {has_country_flag = core_korea}
 		}
 		allow = {
+			war = no
 			KOR = {all_core = {owned_by = THIS}}
 		}
 		effect = {

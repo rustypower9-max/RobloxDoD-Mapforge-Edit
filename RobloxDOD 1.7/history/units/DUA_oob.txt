@@ -271,6 +271,69 @@ army = {
 		home = 254
 	}
 }
+army = {
+	name = "Garde Royale"
+	location = 435
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 448
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 451
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 453
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 284
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 425
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 425
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 418
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 418
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = artillery
+		home = 425
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = artillery
+		home = 418
+	}
+}
 navy = {
 	name = "French Navy"
 	location = 420
@@ -633,6 +696,46 @@ navy = {
 	ship = {
 		name= "frigate"
 		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
 	}
 	ship = {
 		name= "transport"

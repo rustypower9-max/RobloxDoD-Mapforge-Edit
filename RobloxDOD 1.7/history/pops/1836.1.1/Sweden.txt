@@ -519,7 +519,7 @@
         size = 1112
     }
 
-    artisans = {
+    craftsmen = {
         culture = scandinavian
         religion = placeholder
         size = 4125
@@ -615,7 +615,7 @@
         size = 1668
     }
 
-    artisans = {
+    craftsmen = {
         culture = scandinavian
         religion = placeholder
         size = 5775
@@ -647,7 +647,7 @@
         size = 1668
     }
 
-    artisans = {
+    craftsmen = {
         culture = scandinavian
         religion = placeholder
         size = 6187
@@ -679,7 +679,7 @@
         size = 1668
     }
 
-    artisans = {
+    craftsmen = {
         culture = scandinavian
         religion = placeholder
         size = 5155

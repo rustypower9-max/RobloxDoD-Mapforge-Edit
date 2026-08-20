@@ -6,7 +6,7 @@ trade_goods = grain
 life_rating = 40
 state_building = {
 	level = 1
-	building = furniture_factory
+	building = explosives_factory
 	upgrade = yes
 }
 state_building = {
@@ -15,12 +15,12 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 1
-	building = paper_mill
+	level = 3
+	building = steel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 3
 	building = artillery_factory
 	upgrade = yes
 }

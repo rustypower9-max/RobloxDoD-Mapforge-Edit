@@ -457,5 +457,55 @@ navy = {
 		name= "4b Flotilla de Transporte"
 		type = clipper_transport
 	}
+	ship = {
+		name= "5b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	
+	ship = {
+		name= "1c Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2c Flotilla de Transporte"
+		type = clipper_transport
+	}
+	ship = {
+		name= "5b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7b Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	
+	ship = {
+		name= "1c Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2c Flotilla de Transporte"
+		type = clipper_transport
+	}
 
 }

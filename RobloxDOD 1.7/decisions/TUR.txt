@@ -97,6 +97,7 @@ political_decisions = {
 			NOT = {has_country_flag = tanzimat_reforms_albanian}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 		}
 		effect = {
@@ -118,7 +119,7 @@ political_decisions = {
 			MOL = {all_core = {owned_by = THIS}}
 		}
 		effect = {
-			set_country_flag = tanzimat_reforms_serb
+			set_country_flag = tanzimat_reforms_romanian
 			WAL = {all_core = {add_core = THIS}}
 			MOL = {all_core = {add_core = THIS}}
 			add_accepted_culture = romanian
@@ -131,6 +132,7 @@ political_decisions = {
 			NOT = {has_country_flag = tanzimat_reforms_mashriqi}
 		}
 		allow = {
+			war = no
 			nationalism_n_imperialism = 1
 			SYR = {all_core = {owned_by = THIS}}
 			IRQ = {all_core = {owned_by = THIS}}
@@ -167,6 +169,7 @@ political_decisions = {
 			NOT = {has_country_flag = islamic_reforms_mashriqi}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 			SYR = {all_core = {owned_by = THIS}}
 		}
@@ -183,6 +186,7 @@ political_decisions = {
 			NOT = {has_country_flag = islamic_reforms_misri}
 		}
 		allow = {
+			war = no
 			nationalism_n_imperialism = 1
 			EGY = {all_core = {owned_by = THIS}}
 		}
@@ -199,6 +203,7 @@ political_decisions = {
 			NOT = {has_country_flag = islamic_reforms_bedouin}
 		}
 		allow = {
+			war = no
 			nationalism_n_imperialism = 1
 			NEJ = {all_core = {owned_by = THIS}}
 		}
@@ -216,11 +221,12 @@ political_decisions = {
 			NOT = {has_country_flag = islamic_reforms_armenian}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 			ARM = {all_core = {owned_by = THIS}}
 		}
 		effect = {
-			set_country_flag = islamic_reforms_bedouin
+			set_country_flag = islamic_reforms_armenian
 			ARM = {all_core = {add_core = THIS}}
 			add_accepted_culture = armenian
 		}
@@ -233,11 +239,12 @@ political_decisions = {
 			NOT = {has_country_flag = islamic_reforms_azeri}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 			AZB = {all_core = {owned_by = THIS}}
 		}
 		effect = {
-			set_country_flag = islamic_reforms_bedouin
+			set_country_flag = islamic_reforms_azeri
 			AZB = {all_core = {add_core = THIS}}
 			add_accepted_culture = azerbaijani
 		}

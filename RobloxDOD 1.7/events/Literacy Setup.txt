@@ -161,6 +161,7 @@ country_event = {
 					has_pop_culture = korean
 					has_pop_culture = aryan
 					has_pop_culture = russian
+					has_pop_culture = crimean
 					has_pop_culture = croat
 					has_pop_culture = ukrainian
                 }
@@ -513,7 +514,7 @@ country_event = {
 }
 country_event = {
 	id = 10000030
-	title = "Lack of an Internatinoal Code"
+	title = "Lack of an International Code"
 	desc = "Due to a lack of codified borders and nation states we can justify any agressive expansion a little easier. (This will expire in 1848)"
 	trigger = {
 	NOT = {

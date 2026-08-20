@@ -80,7 +80,7 @@ army = {
 	regiment = {
 		name= "1e Cavalerie Brigade"
 		type = hussar
-		home = 385
+		home = 2087
 	}
 
 	regiment = {
@@ -92,7 +92,7 @@ army = {
 	regiment = {
 		name= "3e Cavalerie Brigade"
 		type = infantry
-		home = 380
+		home = 575
 	}
 
 	regiment = {
@@ -110,31 +110,31 @@ army = {
 	regiment = {
 		name = "5e Infanterie Brigade"
 		type = artillery
-		home = 379
+		home = 1416
 	}
 
 	regiment = {
 		name = "6e Infanterie Brigade"
 		type = artillery
-		home = 386
+		home = 575
 	}
 	
 	regiment = {
 		name = "7e Infanterie Brigade"
 		type = artillery
-		home = 382
+		home = 1306
 	}
 	
 	regiment = {
 		name = "8e Infanterie Brigade"
 		type = artillery
-		home = 383
+		home = 1413
 	}
 	
 	regiment = {
 		name = "8e Infanterie Brigade"
 		type = artillery
-		home = 377
+		home = 1413
 	}
 
 }

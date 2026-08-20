@@ -352,13 +352,13 @@
         size = 12920
     }
 
-    artisans = {
+    craftsmen = {
         culture = turkish
         religion = placeholder
         size = 12920
     }
 
-    artisans = {
+    craftsmen = {
         culture = turkish
         religion = placeholder
         size = 12920

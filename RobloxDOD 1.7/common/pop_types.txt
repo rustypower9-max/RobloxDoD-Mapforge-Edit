@@ -1832,7 +1832,7 @@ assimilation_chance = {
 			}
 		}
 		modifier = {
-			factor = -4.97
+			factor = -4.95
 			has_pop_culture = north_german
 			has_culture_core = no
 			country = {
@@ -1853,6 +1853,42 @@ assimilation_chance = {
 		modifier = {
 			factor = -4.97
 			has_pop_culture = french
+			has_culture_core = no
+			country = {
+				has_country_flag = dominate_france
+			}
+		}	
+	}
+	
+	group = {
+		modifier = {
+			factor = 5
+			has_pop_culture = breton
+			country = {
+				has_country_flag = dominate_france
+			}
+		}
+		modifier = {
+			factor = -4.97
+			has_pop_culture = breton
+			has_culture_core = no
+			country = {
+				has_country_flag = dominate_france
+			}
+		}	
+	}
+	
+	group = {
+		modifier = {
+			factor = 5
+			has_pop_culture = anglois
+			country = {
+				has_country_flag = dominate_france
+			}
+		}
+		modifier = {
+			factor = -4.97
+			has_pop_culture = breton
 			has_culture_core = no
 			country = {
 				has_country_flag = dominate_france
@@ -1882,7 +1918,7 @@ assimilation_chance = {
 #Crimean Assimilation from Subjugation Decision
 	group = {
 		modifier = {
-			factor = 50
+			factor = 100
 			has_pop_culture = crimean
 			country = {
 				has_country_flag = crimean_subjugation

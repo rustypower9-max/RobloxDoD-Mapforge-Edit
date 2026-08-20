@@ -22,6 +22,7 @@ political_decisions = {
 			NOT = {has_country_flag = integrate_ruthenians}
 		}
 		allow = {
+			war = no
 			nationalism_n_imperialism = 1
 			year = 1860
 			BYE = {all_core = {owned_by = THIS}}
@@ -39,6 +40,7 @@ political_decisions = {
 			NOT = {has_country_flag = baltic_protectors}
 		}
 		allow = {
+			war = no
 			nationalism_n_imperialism = 1
 			LAT = {all_core = {owned_by = THIS}}
 			EST = {all_core = {owned_by = THIS}}

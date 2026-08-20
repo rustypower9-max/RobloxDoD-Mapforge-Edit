@@ -2292,55 +2292,7 @@
     craftsmen = {
         culture = anglois
         religion = placeholder
-        size = 13657
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = anglois
-        religion = placeholder
-        size = 10000
+        size = 83657
     }
 
     artisans = {
@@ -2430,7 +2382,7 @@
     farmers = {
         culture = anglois
         religion = placeholder
-        size = 102200
+        size = 112200
     }
 
     clergymen = {

@@ -280,6 +280,65 @@ army = {
 	}
 
 }
+army = {
+	name = "5th Army"
+	location = 369
+	regiment = {
+		name= "1.1. Infanteridivision"
+		type = artillery
+		home = 2213
+	}
+
+	regiment = {
+		name= "4.1. Infanteridivision"
+		type = artillery
+		home = 2215
+	}
+
+	regiment = {
+		name= "3.1. Infanteridivision"
+		type = artillery
+		home = 1455
+	}
+	
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = artillery
+		home = 1456
+	}
+
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = artillery
+		home = 1457
+	}
+	regiment = {
+		name= "2.2. Infanteridivision"
+		type = artillery
+		home = 1463
+	}
+	regiment = {
+		name= "3.2. Infanteridivision"
+		type = artillery
+		home = 372
+	}
+	regiment = {
+		name= "4.2. Infanteridivision"
+		type = artillery
+		home = 372
+	}
+	regiment = {
+		name= "5.2. Infanteridivision"
+		type = artillery
+		home = 373
+	}
+	regiment = {
+		name= "1.1. Kavalleridivision"
+		type = hussar
+		home = 373
+	}
+
+}
 navy = {
 	name = "Scandinavian Navy"
 	location = 372
@@ -563,6 +622,46 @@ navy = {
 		name= "transport"
 		type = clipper_transport
 	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
 	ship = {
 		name= "transport"
 		type = clipper_transport

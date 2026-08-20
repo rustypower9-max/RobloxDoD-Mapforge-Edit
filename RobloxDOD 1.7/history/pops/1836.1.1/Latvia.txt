@@ -50,7 +50,7 @@
         size = 270
     }
 
-    artisans = {
+    craftsmen = {
         culture = pomeranian
         religion = placeholder
         size = 9078
@@ -124,10 +124,10 @@
         size = 4247
     }
 
-    artisans = {
+    craftsmen = {
         culture = latvian
         religion = placeholder
-        size = 4790
+        size = 5890
     }
 
     soldiers = {
@@ -170,12 +170,6 @@
         culture = ashkenazi
         religion = placeholder
         size = 202
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = placeholder
-        size = 1100
     }
 
     soldiers = {

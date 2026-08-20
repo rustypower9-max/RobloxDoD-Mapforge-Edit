@@ -43,12 +43,12 @@ dreadnought = {
 		#telephones = 0.2      #3.2
 		#radio = 0.2           #3.2
 		#steel = 5	      #23.5
-		fuel = 1.75           #41.25 total 228.15
+		fuel = 3.2           #41.25 total 228.15
 	}
 	
 	#Naval Abilties
 	hull = 80
 	gun_power = 60
-	fire_range = 1.25
+	fire_range = 1.0
 	evasion = 0
 }

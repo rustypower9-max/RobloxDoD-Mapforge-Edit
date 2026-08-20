@@ -1761,13 +1761,13 @@
         size = 3971
     }
 
-    artisans = {
+    craftsmen = {
         culture = south_italian
         religion = placeholder
         size = 11770
     }
 
-    artisans = {
+    craftsmen = {
         culture = south_italian
         religion = placeholder
         size = 11770

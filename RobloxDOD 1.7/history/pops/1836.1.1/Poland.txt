@@ -322,14 +322,14 @@
         size = 883
     }
 
-    aristocrats = {
-        culture = czech
+    soldiers = {
+        culture = pomeranian
         religion = placeholder
         size = 30
     }
 
     clergymen = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 26
     }
@@ -341,7 +341,7 @@
     }
 
     soldiers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 86
     }
@@ -353,13 +353,13 @@
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 12
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 46
     }

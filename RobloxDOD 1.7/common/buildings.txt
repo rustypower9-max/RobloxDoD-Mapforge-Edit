@@ -697,11 +697,15 @@ fort = {
 	type = fort
 	goods_cost =
 	{
-		lumber = 600
-		cement = 400
+		timber = 1600
+		lumber = 1200
+		cement = 1800
+		steel = 1400
 		explosives = 200
-		small_arms = 200
-		artillery = 180
+		small_arms = 700
+		ammunition = 1000
+		artillery = 250
+		canned_food = 2800
 	}
 	time = 360 
 	visibility = yes

@@ -6,6 +6,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
+			year = 1845
 			state_n_government = 1
 			VIN = {all_core = {owned_by = THIS}}
 			NBG_1 = {owned_by = THIS}

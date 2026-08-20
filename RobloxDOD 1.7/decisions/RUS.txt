@@ -70,6 +70,8 @@ political_decisions = {
 			RUS_962 = {add_core = RUS}
 			RUS_718 = {add_core = RUS}
 			RUS_948 = {add_core = RUS}
+			RUS_1204 = {add_core = RUS}
+			RUS_1041 = {add_core = RUS}
 			change_tag = RUS
 		}
 	}
@@ -97,6 +99,7 @@ political_decisions = {
 			NOT = {has_country_flag = push_west}
 		}
 		allow = {
+			war = no
 			year = 1860
 			nationalism_n_imperialism = 1
 			BYE = {all_core = {owned_by = THIS}}
@@ -115,18 +118,22 @@ political_decisions = {
 			NOT = {has_country_flag = eastern_colonies}
 		}
 		allow = {
-			
+			war = no
 		}
 		effect = {
 			badboy = 5.0
 			NOG = {all_core = {add_core = THIS}}
 			SIB = {all_core = {add_core = THIS}}
+			KZH = {all_core = {add_core = THIS}}
 			set_country_flag = eastern_colonies
 		}
 	}
 	crimean_subjugation_MUS = {
 	potential = {
+		OR = {
 		tag = MUS
+		tag = RUS
+		}
 		NOT = {has_country_flag = crimean_subjugation}
 		NOT = {has_global_flag = crimea_subjugated}
 	  }

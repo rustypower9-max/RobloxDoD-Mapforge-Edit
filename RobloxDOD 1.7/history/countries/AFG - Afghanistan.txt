@@ -61,4 +61,3 @@ publishing_industry = 1
 mechanized_mining = 1
 enlightenment_thought = 1
 late_enlightenment_philosophy = 1
-basic_chemistry = 1

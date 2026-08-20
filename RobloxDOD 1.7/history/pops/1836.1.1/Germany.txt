@@ -1749,7 +1749,7 @@
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 19
     }
@@ -1791,13 +1791,13 @@
     }
 
     craftsmen = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 402
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 583
     }
@@ -1955,7 +1955,7 @@
     }
 
     aristocrats = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 40
     }
@@ -1967,13 +1967,13 @@
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 204
     }
 
     soldiers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 90
     }
@@ -1985,7 +1985,7 @@
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 49
     }
@@ -2041,13 +2041,13 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 33
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 174
     }
@@ -2065,7 +2065,7 @@
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 49
     }
@@ -2175,19 +2175,19 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 3
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 17
     }
 
     soldiers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 2
     }
@@ -2205,7 +2205,7 @@
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 1
     }
@@ -2305,7 +2305,7 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = placeholder
         size = 95
     }
@@ -2329,7 +2329,7 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 65
     }
@@ -2543,7 +2543,7 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = pomeranian
         religion = placeholder
         size = 5
     }
@@ -2561,7 +2561,7 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = pomeranian
         religion = placeholder
         size = 37
     }
@@ -2719,7 +2719,7 @@
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 26
     }
@@ -2848,19 +2848,19 @@
     }
 
     artisans = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 3
     }
 
     soldiers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 1
     }
 
     farmers = {
-        culture = czech
+        culture = pomeranian
         religion = placeholder
         size = 53
     }

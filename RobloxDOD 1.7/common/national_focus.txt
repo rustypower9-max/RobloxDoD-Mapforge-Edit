@@ -94,7 +94,7 @@ tier_2_focus =
 
 	promote_bureaucrats_2 =
 	{
-		bureaucrats = 0.22
+		bureaucrats = 0.23
 		icon = 13
 		limit = {
 			owner = { 
@@ -106,7 +106,7 @@ tier_2_focus =
 
 	promote_capitalists_2 =
 	{
-		capitalists = 0.22
+		capitalists = 0.23
 		icon = 14
 		limit = {
 			owner = { 
@@ -122,7 +122,7 @@ tier_2_focus =
 	
 	promote_clergymen_2 =
 	{
-		clergymen = 0.22
+		clergymen = 0.23
 		icon = 15
 		limit = {
 			owner = { 
@@ -134,7 +134,7 @@ tier_2_focus =
 
 	promote_clerks_2 =
 	{
-		clerks = 0.22
+		clerks = 0.23
 		icon = 16
 		limit = {
 			owner = { 
@@ -149,7 +149,7 @@ tier_2_focus =
 
 	promote_craftsmen_2 =
 	{
-		craftsmen = 0.22
+		craftsmen = 0.23
 		icon = 17
 		limit = {
 			owner = { 
@@ -164,7 +164,7 @@ tier_2_focus =
 
 	promote_officers_2 =
 	{
-		officers = 0.22
+		officers = 0.23
 		icon = 18
 		limit = {
 			owner = { 
@@ -176,7 +176,7 @@ tier_2_focus =
 
 	promote_soldiers_2 =
 	{
-		soldiers = 0.22
+		soldiers = 0.23
 		icon = 19
 		limit = {
 			owner = { 
@@ -211,7 +211,7 @@ tier_2_focus =
 	
 	militancy_and_reform_focus =
 	{
-		pop_militancy_modifier = 0.3
+		pop_militancy_modifier = 0.30
 		political_reform_desire = 0.5
 		social_reform_desire = 0.5
 		icon = 23
@@ -229,7 +229,7 @@ tier_3_focus =
 
 	promote_bureaucrats_3 =
 	{
-		bureaucrats = 0.25
+		bureaucrats = 0.26
 		icon = 24
 		limit = {
 			owner = { 
@@ -241,7 +241,7 @@ tier_3_focus =
 
 	promote_capitalists_3 =
 	{
-		capitalists = 0.25
+		capitalists = 0.26
 		icon = 25
 		limit = {
 			owner = { 
@@ -257,7 +257,7 @@ tier_3_focus =
 	
 	promote_clergymen_3 =
 	{
-		clergymen = 0.25
+		clergymen = 0.26
 		icon = 26
 		limit = {
 			owner = { 
@@ -269,7 +269,7 @@ tier_3_focus =
 
 	promote_clerks_3 =
 	{
-		clerks = 0.25
+		clerks = 0.26
 		icon = 27
 		limit = {
 			owner = { 
@@ -284,7 +284,7 @@ tier_3_focus =
 
 	promote_craftsmen_3 =
 	{
-		craftsmen = 0.25
+		craftsmen = 0.26
 		icon = 28
 		limit = {
 			owner = { 
@@ -299,7 +299,7 @@ tier_3_focus =
 
 	promote_officers_3 =
 	{
-		officers = 0.25
+		officers = 0.26
 		icon = 29
 		limit = {
 			owner = { 
@@ -311,7 +311,7 @@ tier_3_focus =
 
 	promote_soldiers_3 =
 	{
-		soldiers = 0.25
+		soldiers = 0.26
 		icon = 30
 		limit = {
 			owner = { 
@@ -323,41 +323,8 @@ tier_3_focus =
 	
 	assimilation_bonus_2 =
 	{
-		assimilation_rate = 2.25
+		assimilation_rate = .250
 		icon = 21
-		limit = {
-			owner = { 
-				has_country_flag = tier_3
-			}
-		}
-	}
-	
-	factory_output_bonus =
-	{
-		local_factory_output = 0.2 #1
-		icon = 32
-		limit = {
-			owner = { 
-				has_country_flag = tier_3
-			}
-		}
-	}
-	
-	mining_bonus =
-	{
-		mine_rgo_eff = 0.5 #1
-		icon = 33
-		limit = {
-			owner = { 
-				has_country_flag = tier_3
-			}
-		}
-	}
-	
-	farming_bonus =
-	{
-		farm_rgo_eff = 0.5 #1
-		icon = 34
 		limit = {
 			owner = { 
 				has_country_flag = tier_3
@@ -372,7 +339,7 @@ tier_4_focus =
 
 	promote_bureaucrats_4 =
 	{
-		bureaucrats = 0.27
+		bureaucrats = 0.29
 		icon = 35
 		limit = {
 			owner = { 
@@ -384,7 +351,7 @@ tier_4_focus =
 
 	promote_capitalists_4 =
 	{
-		capitalists = 0.27
+		capitalists = 0.29
 		icon = 36
 		limit = {
 			owner = { 
@@ -400,7 +367,7 @@ tier_4_focus =
 	
 	promote_clergymen_4 =
 	{
-		clergymen = 0.27
+		clergymen = 0.29
 		icon = 37
 		limit = {
 			owner = { 
@@ -412,7 +379,7 @@ tier_4_focus =
 
 	promote_clerks_4 =
 	{
-		clerks = 0.27
+		clerks = 0.29
 		icon = 38
 		limit = {
 			owner = { 
@@ -427,7 +394,7 @@ tier_4_focus =
 
 	promote_craftsmen_4 =
 	{
-		craftsmen = 0.27
+		craftsmen = 0.29
 		icon = 39
 		limit = {
 			owner = { 
@@ -442,7 +409,7 @@ tier_4_focus =
 
 	promote_officers_4 =
 	{
-		officers = 0.27
+		officers = 0.29
 		icon = 40
 		limit = {
 			owner = { 
@@ -454,7 +421,7 @@ tier_4_focus =
 
 	promote_soldiers_4 =
 	{
-		soldiers = 0.27
+		soldiers = 0.29
 		icon = 41
 		limit = {
 			owner = { 
@@ -466,7 +433,7 @@ tier_4_focus =
 	
 	assimilation_bonus_3 =
 	{
-		assimilation_rate = 3.00
+		assimilation_rate = 3.5
 		icon = 21
 		limit = {
 			owner = { 
@@ -477,7 +444,7 @@ tier_4_focus =
 	
 	craftsmen_assimilation_bonus =
 	{
-		craftsmen = 0.15
+		craftsmen = 0.2
 		assimilation_rate = 1.5
 		outliner_show_as_percent = yes
 		icon = 43
@@ -490,7 +457,7 @@ tier_4_focus =
 	
 	soldier_assimilation_bonus =
 	{
-		soldiers = 0.15
+		soldiers = 0.2
 		assimilation_rate = 1.5
 		outliner_show_as_percent = yes
 		icon = 44
@@ -522,7 +489,7 @@ tier_5_focus =
 
 	promote_bureaucrats_5 =
 	{
-		bureaucrats = 0.3
+		bureaucrats = 0.32
 		icon = 46
 		limit = {
 			owner = { 
@@ -534,7 +501,7 @@ tier_5_focus =
 
 	promote_capitalists_5 =
 	{
-		capitalists = 0.3
+		capitalists = 0.32
 		icon = 47
 		limit = {
 			owner = { 
@@ -550,7 +517,7 @@ tier_5_focus =
 	
 	promote_clergymen_5 =
 	{
-		clergymen = 0.3
+		clergymen = 0.32
 		icon = 48
 		limit = {
 			owner = { 
@@ -562,7 +529,7 @@ tier_5_focus =
 
 	promote_clerks_5 =
 	{
-		clerks = 0.3
+		clerks = 0.32
 		icon = 49
 		limit = {
 			owner = { 
@@ -577,7 +544,7 @@ tier_5_focus =
 
 	promote_craftsmen_5 =
 	{
-		craftsmen = 0.3
+		craftsmen = 0.32
 		icon = 50
 		limit = {
 			owner = { 
@@ -592,7 +559,7 @@ tier_5_focus =
 
 	promote_officers_5 =
 	{
-		officers = 0.3
+		officers = 0.32
 		icon = 51
 		limit = {
 			owner = { 
@@ -604,7 +571,7 @@ tier_5_focus =
 
 	promote_soldiers_5 =
 	{
-		soldiers = 0.3
+		soldiers = 0.32
 		icon = 52
 		limit = {
 			owner = { 
@@ -616,47 +583,8 @@ tier_5_focus =
 	
 	assimilation_bonus_4 =
 	{
-		assimilation_rate = 3.5
+		assimilation_rate = 4.25
 		icon = 21
-		limit = {
-			owner = { 
-				has_country_flag = tier_5
-			}
-		}
-	}
-	
-	output_craftsmen =
-	{
-		craftsmen = 0.10
-		local_factory_output = 0.15 #0.25 #0.5
-		outliner_show_as_percent = yes
-		icon = 54
-		limit = {
-			owner = { 
-				has_country_flag = tier_5
-			}
-		}
-	}
-	
-	input_clerks =
-	{
-		clerks = 0.10
-		local_factory_input = -0.125 #-0.25
-		outliner_show_as_percent = yes
-		icon = 55
-		limit = {
-			owner = { 
-				has_country_flag = tier_5
-			}
-		}
-	}
-	
-	output_clerks =
-	{
-		clerks = 0.10
-		local_factory_output = 0.15 #0.25 #0.5
-		outliner_show_as_percent = yes
-		icon = 56
 		limit = {
 			owner = { 
 				has_country_flag = tier_5
@@ -671,7 +599,7 @@ tier_6_focus =
 
 	promote_bureaucrats_6 =
 	{
-		bureaucrats = 0.32
+		bureaucrats = 0.35
 		icon = 57
 		limit = {
 			owner = { 
@@ -683,7 +611,7 @@ tier_6_focus =
 
 	promote_capitalists_6 =
 	{
-		capitalists = 0.32
+		capitalists = 0.35
 		icon = 58
 		limit = {
 			owner = { 
@@ -699,7 +627,7 @@ tier_6_focus =
 	
 	promote_clergymen_6 =
 	{
-		clergymen = 0.32
+		clergymen = 0.35
 		icon = 59
 		limit = {
 			owner = { 
@@ -711,7 +639,7 @@ tier_6_focus =
 
 	promote_clerks_6 =
 	{
-		clerks = 0.32
+		clerks = 0.35
 		icon = 60
 		limit = {
 			owner = { 
@@ -726,7 +654,7 @@ tier_6_focus =
 
 	promote_craftsmen_6 =
 	{
-		craftsmen = 0.32
+		craftsmen = 0.35
 		icon = 61
 		limit = {
 			owner = { 
@@ -741,7 +669,7 @@ tier_6_focus =
 
 	promote_officers_6 =
 	{
-		officers = 0.32
+		officers = 0.35
 		icon = 62
 		limit = {
 			owner = { 
@@ -753,7 +681,7 @@ tier_6_focus =
 
 	promote_soldiers_6 =
 	{
-		soldiers = 0.32
+		soldiers = 0.35
 		icon = 63
 		limit = {
 			owner = { 
@@ -765,50 +693,8 @@ tier_6_focus =
 	
 	assimilation_bonus_5 =
 	{
-		assimilation_rate = 4.0
+		assimilation_rate = 5.0
 		icon = 21
-		limit = {
-			owner = { 
-				has_country_flag = tier_6
-			}
-		}
-	}
-	
-	input_output_clerks =
-	{
-		clerks = 0.10
-		local_factory_input = -0.062 #-0.125
-		local_factory_output = 0.125 #0.25
-		outliner_show_as_percent = yes
-		icon = 65
-		limit = {
-			owner = { 
-				has_country_flag = tier_6
-			}
-		}
-	}
-	
-	input_output_soldiers =
-	{
-		soldiers = 0.10
-		local_factory_input = -0.062 #-0.125
-		local_factory_output = 0.125 #0.25
-		outliner_show_as_percent = yes
-		icon = 66
-		limit = {
-			owner = { 
-				has_country_flag = tier_6
-			}
-		}
-	}
-	
-	input_output_rgos =
-	{
-		local_factory_input = -0.062 #-0.125
-		local_factory_output = 0.125 #0.25
-		mine_rgo_eff = 0.2 #0.25
-		farm_rgo_eff = 0.2 #0.25
-		icon = 67
 		limit = {
 			owner = { 
 				has_country_flag = tier_6

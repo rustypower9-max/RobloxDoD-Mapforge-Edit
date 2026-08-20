@@ -163,6 +163,7 @@ political_decisions = {
 			NOT = {has_country_flag = greek_accepted}
 		}
 		allow = {
+			war = no
 			owns = 834
 			idealism = 1
 		}

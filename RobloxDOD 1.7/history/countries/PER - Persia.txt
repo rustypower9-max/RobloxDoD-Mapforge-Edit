@@ -63,7 +63,6 @@ mechanized_mining = 1
 enlightenment_thought = 1
 malthusian_thought = 1
 late_enlightenment_philosophy = 1
-basic_chemistry = 1
 private_bank_money_bill_printing = 1
 ad_hoc_money_bill_printing = 1
 

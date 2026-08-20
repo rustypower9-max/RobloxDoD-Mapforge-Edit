@@ -5,18 +5,21 @@ integrate_kaiganese = {
 			NOT = {has_country_flag = integrate_kaigans}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
-			KKN = all_core = {
-									OR = {
-										owned_by = THIS
-										owner = {
-										  OR = {
-											in_sphere = THIS
-											vassal_of = THIS
-											}
-										}
+					KKN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
 									}
 								}
+							}
+						} 
+					}	
 		}
 		effect = {
 			set_country_flag = integrate_kaigans
@@ -32,44 +35,53 @@ reunite_the_diaspora = {
 	}
 	allow = {
 		nationalism_n_imperialism = 1
-		YLO = all_core = {
-									OR = {
-										owned_by = THIS
-										owner = {
-										  OR = {
-											in_sphere = THIS
-											vassal_of = THIS
-											}
-										}
+			YLO = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
 									}
 								}
-		MJN = all_core = {
-									OR = {
-										owned_by = THIS
-										owner = {
-										  OR = {
-											in_sphere = THIS
-											vassal_of = THIS
-											}
-										}
+							}
+						} 
+					}	
+			MJN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
 									}
 								}
-		ZSA = all_core = {
-									OR = {
-										owned_by = THIS
-										owner = {
-										  OR = {
-											in_sphere = THIS
-											vassal_of = THIS
-											}
-										}
+							}
+						} 
+					}	
+			ZSA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
 									}
 								}
-		}
-		effect = {
-		set_country_flag = diaspora_reunited
-		YLO = {all_core = {add_core = DNG}}
-		MJN = {all_core = {add_core = DNG}}
-		ZSA = {all_core = {add_core = DNG}}
-		}
-}	
+							}
+						} 
+					}
+				}
+			effect = {
+			set_country_flag = diaspora_reunited
+			YLO = {all_core = {add_core = DNG}}
+			MJN = {all_core = {add_core = DNG}}
+			ZSA = {all_core = {add_core = DNG}}
+			ENG_2491 = {add_core = DNG}
+			ENG_2497 = {add_core = DNG}
+			}
+		}	
+}

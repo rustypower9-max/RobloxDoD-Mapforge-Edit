@@ -64,7 +64,7 @@ political_decisions = {
 			nationalvalue = nv_diplomacy
 			add_country_modifier = {
 				name = national_confusion
-				duration = 1825
+				duration = 3650
 			}
 			any_pop = {
 				scaled_militancy = {
@@ -106,7 +106,7 @@ political_decisions = {
 			nationalvalue = nv_education
 			add_country_modifier = {
 				name = national_confusion
-				duration = 1825
+				duration = 3650
 			}
 			any_pop = {
 				scaled_militancy = {
@@ -148,7 +148,7 @@ political_decisions = {
 			nationalvalue = nv_order
 			add_country_modifier = {
 				name = national_confusion
-				duration = 1825
+				duration = 3650
 			}
 			any_pop = {
 				scaled_militancy = {
@@ -190,7 +190,7 @@ political_decisions = {
 			nationalvalue = nv_productivity
 			add_country_modifier = {
 				name = national_confusion
-				duration = 1825
+				duration = 3650
 			}
 			any_pop = {
 				scaled_militancy = {
@@ -232,7 +232,7 @@ political_decisions = {
 			nationalvalue = nv_equality
 			add_country_modifier = {
 				name = national_confusion
-				duration = 1825
+				duration = 3650
 			}
 			any_pop = {
 				scaled_militancy = {

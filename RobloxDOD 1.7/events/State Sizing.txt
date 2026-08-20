@@ -5,7 +5,7 @@ country_event = {
 	trigger = {
 		tag = LCT
 		NOT = { has_country_modifier = sizing_cooldown }
-		NOT = { year = 1860 }
+		NOT = { year = 1865 }
 	}
 
 	immediate = {

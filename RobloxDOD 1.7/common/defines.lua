@@ -124,7 +124,7 @@ economy = {
 	TRADE_CAP_LOW_LIMIT_LAND = 0, 				-- the lowest % the slider can go for land units
 	TRADE_CAP_LOW_LIMIT_NAVAL = 0.5, 			-- the lowest % the slider can go for naval units
 	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0, 		-- the lowest % the slider can go for constructions
-	FACTORY_PURCHASE_MIN_FACTOR = 0.75,			-- the lowest % of its daily needs a factory will purchase
+	FACTORY_PURCHASE_MIN_FACTOR = 1.0,			-- the lowest % of its daily needs a factory will purchase
 	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.025		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
 },
 
@@ -166,11 +166,11 @@ military = {
 	NAVAL_COMBAT_RETREAT_CHANCE = 0.07, -- base chance for retreating when STR or ORG is low. Increased by leader experiance and speed.
 	NAVAL_COMBAT_RETREAT_STR_ORG_LEVEL = 0.15, -- the retreating is available when STR or ORG % drops below this value (it's 0% to 100% value)
 	NAVAL_COMBAT_RETREAT_SPEED_MOD = 0.4, -- slow down when retreating so there is a chance to hit the runner
-	NAVAL_COMBAT_RETREAT_MIN_DISTANCE = 0.25, -- how close (in average) all alive ships must be to the center line to be able to retreat.
+	NAVAL_COMBAT_RETREAT_MIN_DISTANCE = 0.3, -- how close (in average) all alive ships must be to the center line to be able to retreat.
 	NAVAL_COMBAT_DAMAGED_TARGET_SELECTION = 2.5, -- multiply chance of seleting target that has low average of STR/ORG
 	NAVAL_COMBAT_STACKING_TARGET_CHANGE = 0.03, -- increase chance to change/drop target when suffering stacking penalty
 	NAVAL_COMBAT_STACKING_TARGET_SELECT = 0.2, -- modifier for how much the stacking penalty affects the target selection.
-	NAVAL_COMBAT_MAX_TARGETS = 6, -- max number of ships that may target the same enemy ship
+	NAVAL_COMBAT_MAX_TARGETS = 2, -- max number of ships that may target the same enemy ship
 	AI_BIGSHIP_PROPORTION = 0.4, -- fraction of ships in the navy that should be ships of the line
 	AI_LIGHTSHIP_PROPORTION = 0.4, -- fraction of ships in the navy that should be cruisers, frigates etc
 	AI_TRANSPORT_PROPORTION = 0.2, -- fraction of ships in the navy that should be should be transports

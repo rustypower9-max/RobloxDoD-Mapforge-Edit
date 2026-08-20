@@ -3610,8 +3610,8 @@ farmers = {
 		size = 4000
 	}
 
-	slaves = { 
-		culture = afro_american
+	farmers = { 
+		culture = plantagenian
 		religion = placeholder
 		size = 43000
 	}
@@ -5791,7 +5791,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 1832
+		size = 16832
 	}
 
 	soldiers = { 
@@ -5809,7 +5809,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 19000
+		size = 4000
 	}
 }
 #Memphis (128000/32000 POPS)
@@ -6240,7 +6240,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 5870
+		size = 23870
 	}
 
 	soldiers = { 
@@ -6264,7 +6264,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 28500
+		size = 10500
 	}
 }
 #Mobile (140000/35000 POPS)
@@ -6490,7 +6490,7 @@ farmers = {
 	farmers = {
 		culture = plantagenian
 		religion = placeholder
-		size = 9450
+		size = 19350
 	}
 
 
@@ -6513,11 +6513,6 @@ farmers = {
 		size = 150
 	} 
 	
-	slaves = {
-		culture = afro_american
-		religion = placeholder
-		size = 9900
-	}
 }
 #Georgia Region (628000)
 #ruled by the USA
@@ -6562,7 +6557,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 2802
+		size = 26802
 	}
 
 	soldiers = { 
@@ -6598,7 +6593,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 39900
+		size = 15900
 	}
 }
 #Valdosta (44000/11000 POPS)
@@ -6747,7 +6742,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 3240
+		size = 33240
 	}
 
 	soldiers = { 
@@ -6783,7 +6778,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 36000
+		size = 6000
 	}
 }
 #South Carolina Region (588000)
@@ -6829,7 +6824,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 8712
+		size = 38712
 	}
 
 	soldiers = { 
@@ -6853,7 +6848,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 58320
+		size = 28320
 	}
 }
 #Columbia (340000/85000 POPS)
@@ -6891,7 +6886,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 12570
+		size = 27570
 	}
 
 	soldiers = { 
@@ -6927,7 +6922,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 35640
+		size = 20640
 	}
 }
 #North Carolina Region (736000)
@@ -7073,7 +7068,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 7610
+		size = 37610
 	}
 
 	soldiers = { 
@@ -7109,7 +7104,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 54720
+		size = 24720
 	}
 }
 #Wilmington (188000/47000 POPS)
@@ -7268,7 +7263,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 9780
+		size = 24780
 	}
 
 	soldiers = { 
@@ -7292,7 +7287,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 31500
+		size = 16500
 	}
 }
 #Manassas (68000/17000 POPS)
@@ -7572,7 +7567,7 @@ farmers = {
 	farmers = { 
 		culture = plantagenian
 		religion = placeholder
-		size = 8832
+		size = 25832
 	}
 
 	soldiers = { 
@@ -7596,7 +7591,7 @@ farmers = {
 	slaves = { 
 		culture = afro_american
 		religion = placeholder
-		size = 34850
+		size = 17850
 	}
 
 }

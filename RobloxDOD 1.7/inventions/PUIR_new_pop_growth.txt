@@ -9,20 +9,20 @@ sanitation = {
 		impressionism = 1
 	}
 	chance = {
-		base = 2
+		base = 0
 		modifier = {
-			factor = 4
-			practical_steam_engine = 1
+			factor = 25
+			inorganic_chemistry = 1
 		}
 		modifier = {
-			factor = 4
+			factor = 5
 			any_neighbor_country = {
 				invention = sanitation
 			}
 		}
 	}
 	effect = {
-		#pop_growth = 0.0001
+		pop_growth = 0.0001
 	}	
 }
 

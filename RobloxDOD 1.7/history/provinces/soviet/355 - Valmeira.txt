@@ -6,4 +6,13 @@ add_core = LAT
 #add_core = PLC
 trade_goods = cattle
 life_rating = 38
-
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
