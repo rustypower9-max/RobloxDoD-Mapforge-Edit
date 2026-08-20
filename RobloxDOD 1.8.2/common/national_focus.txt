@@ -200,7 +200,7 @@ tier_2_focus =
 	
 	assimilation_bonus =
 	{
-		assimilation_rate = 1.5
+		assimilation_rate = 1.0
 		icon = 21
 		limit = {
 			owner = { 
@@ -323,7 +323,7 @@ tier_3_focus =
 	
 	assimilation_bonus_2 =
 	{
-		assimilation_rate = .250
+		assimilation_rate = 2.25
 		icon = 21
 		limit = {
 			owner = { 
@@ -433,7 +433,7 @@ tier_4_focus =
 	
 	assimilation_bonus_3 =
 	{
-		assimilation_rate = 3.5
+		assimilation_rate = 3.0
 		icon = 21
 		limit = {
 			owner = { 
@@ -583,7 +583,7 @@ tier_5_focus =
 	
 	assimilation_bonus_4 =
 	{
-		assimilation_rate = 4.25
+		assimilation_rate = 4.0
 		icon = 21
 		limit = {
 			owner = { 
