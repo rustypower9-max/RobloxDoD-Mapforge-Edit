@@ -118172,12 +118172,12 @@
 
 } # Rhine River
 
-3263 = {
-    text_scale = 0.000001
-    text_position = {
-        x = 2866.000098
-        y = 1670.800049
-    }
+#3263 = {
+    #text_scale = 0.000001
+    #text_position = {
+     #   x = 2866.000098
+      #  y = 1670.800049
+    #}
 
 } # Seine River
 
