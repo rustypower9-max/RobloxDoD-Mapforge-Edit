@@ -122,7 +122,7 @@ political_decisions = {
 			set_country_flag = tanzimat_reforms_romanian
 			WAL = {all_core = {add_core = THIS}}
 			MOL = {all_core = {add_core = THIS}}
-			add_accepted_culture = romanian
+			#add_accepted_culture = romanian
 		}
 	}
 	tanzimat_reforms_mashriqi = {
@@ -160,6 +160,7 @@ political_decisions = {
 			set_country_flag = turkish_serbia
 			SER = {all_core = {add_core = THIS}}
 			MON = {all_core = {add_core = THIS}}
+			add_accepted_culture = serbian
 		}
 	}
 	islamic_reforms_mashriqi = {
