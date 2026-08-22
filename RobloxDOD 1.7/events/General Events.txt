@@ -8,7 +8,7 @@ country_event = {
 	NOT = {
 		OR = {
 			#add tags of countries with specific events here
-			has_leader = "John Cena"
+			has_leader = "Lord DuckGoose"
 		}
 		}
 	}
@@ -19,7 +19,7 @@ country_event = {
 	desc = "Our prayers to RNGesus have been answered"
 	immediate = {
 		define_general = {
-			name = "John Cena"
+			name = "Lord Duckgoose"
 			#+1 attack, +1 defence. +10% morale
 			personality = defence_3.3
 			#+3 attack, +3 defence
