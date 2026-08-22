@@ -16,7 +16,7 @@ country_event = {
 		days = 1
 	}
 	title = "A New General Arrives"
-	desc = "Our prayers to RNGesus have been answered"
+	desc = "It's a Man? Not It's a Plane? No it'e a Duckgoose and he's here to white Peace your wars."
 	immediate = {
 		define_general = {
 			name = "Lord Duckgoose"
