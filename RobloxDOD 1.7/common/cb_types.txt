@@ -1939,7 +1939,7 @@ colonial_competition = {
 #}
 
 # Cut Down to size (Reperations)
-demand_reperations = {
+demand_Goose_reperations = {
 	sprite_index = 13
 	is_triggered_only = yes
 	months = 12
